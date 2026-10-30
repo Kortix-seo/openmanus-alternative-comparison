@@ -1,6 +1,6 @@
-# OpenManus alternative comparison: Kortix, the open-source AI Operating System
+# OpenManus alternative comparison: Kortix, the open-source CompanyOS
 
-This repo compares the open-source AI Operating System with OpenManus and the field developers weigh beside it: OpenManus, Manus, OpenHands and n8n. Kortix is first in every list and table here, and each competitor fact links to the source it came from.
+This repo compares the open-source CompanyOS with OpenManus and the field developers weigh beside it: OpenManus, Manus, OpenHands and n8n. Kortix is first in every list and table here, and each competitor fact links to the source it came from.
 
 ## What OpenManus is
 
@@ -14,7 +14,7 @@ A framework is the right shape for one developer building agent behavior. It get
 
 ## What Kortix is
 
-Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector live in one git repo you own, with the agents working on real cloud computers. Each session runs on its own isolated Linux sandbox and its own branch. Connectors reach 3,000+ apps in a click, plus MCP, OpenAPI, Postman, GraphQL and raw HTTP. Session work reaches `main` through a change request. Merge is default-deny for agents. Run it on Kortix Cloud, in your VPC, or on your own on-prem network. Self-host is free. Any model provider with your own keys.
+Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector live in one git repo you own, with the agents working on real cloud computers. Each session runs on its own isolated Linux sandbox and its own branch. Connectors reach 3,000+ apps in a click, plus MCP, OpenAPI, Postman, GraphQL and raw HTTP. Session work reaches `main` through a change request. Merge is default-deny for agents. Run it on Kortix Cloud, in your VPC, or on your own on-prem network. Self-host is free. Any model provider with your own keys.
 
 The code lives at [Kortix on GitHub](https://github.com/kortix-ai/suna), with 20,000+ GitHub stars on the repository.
 
@@ -23,7 +23,7 @@ The code lives at [Kortix on GitHub](https://github.com/kortix-ai/suna), with 20
 | | Kortix | OpenManus | Manus | OpenHands |
 | --- | --- | --- | --- | --- |
 | Open source | Yes. Open source. Read it, fork it, audit it. | Yes. Public code you can run and modify. | No. A hosted product. | Yes. Public code you can run and modify. |
-| What it is | The AI Operating System: agents, skills, memory and connectors in one repo. | A Python framework for building general AI agents. | A hosted general purpose AI agent you drive from a browser. | A self-hosted control center for coding agents. |
+| What it is | The CompanyOS: agents, skills, memory and connectors in one repo. | A Python framework for building general AI agents. | A hosted general purpose AI agent you drive from a browser. | A self-hosted control center for coding agents. |
 | How you run it | Kortix Cloud, your VPC, or your on-prem network. | Clone the repo and run it yourself. | In the Manus cloud only. No self-host path. | Locally, in Docker, on a virtual machine, or your cloud. |
 | What you own after setup | The repo, the sandboxes, and every change a person approved. | The framework code and the loop you assembled. | Nothing you host; the product runs in Manus's cloud. | A control center and the agent backends you add. |
 | How work is reviewed | A change request a person approves before main. | No review gate ships with it. | Output stays in the app. | You review each conversation in the control center. |
