@@ -16,7 +16,7 @@ A framework is the right shape for one developer building agent behavior. It get
 
 Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector live in one git repo you own, with the agents working on real cloud computers. Each session runs on its own isolated Linux sandbox and its own branch. Connectors reach 3,000+ apps in a click, plus MCP, OpenAPI, Postman, GraphQL and raw HTTP. Session work reaches `main` through a change request. Merge is default-deny for agents. Run it on Kortix Cloud, in your VPC, or on your own on-prem network. Self-host is free. Any model provider with your own keys.
 
-The code lives at [Kortix on GitHub](https://github.com/kortix-ai/suna), with 20,000+ GitHub stars on the repository.
+The code lives at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS), with 20,000+ GitHub stars on the repository.
 
 ## Kortix, OpenManus, Manus and OpenHands
 
